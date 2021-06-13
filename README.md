@@ -1,2 +1,4 @@
 ## QR Code Generator
-Original: [https://github.com/davidshimjs/qrcodejs/](https://github.com/davidshimjs/qrcodejs/)
+Deployment: [https://50bits.github.io/qrcode/](https://50bits.github.io/qrcode/)
+
+Original project: [https://github.com/davidshimjs/qrcodejs/](https://github.com/davidshimjs/qrcodejs/)
